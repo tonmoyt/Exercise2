@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-color: aqua;
+    text-align: center;
+}
+.sidebar{
+    background-color: darkolivegreen;
+    height: 400px;
+    text-align: center;
+    float: left;
+    width: 30%;
+    
+}
+.main{
+    background-color: goldenrod;
+    text-align: center;
+    width: 70%;
+    height: 250px;
+    float: left;
+}
+.extra{
+    background-color: gray;
+    text-align: center;
+    float: left;
+    width: 70%;
+    height: 150px;
+}
+.footer{
+    background-color: orange;
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: 100px;
+}
+
+.ov1{
+    overflow: hidden;
+}
+.ov2{
+    overflow: hidden;
+}
